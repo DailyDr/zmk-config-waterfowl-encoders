@@ -30,7 +30,7 @@
         };
     };
 
-    &mt {
+    mt {
 	tapping-term-ms = <175>;
 	};
 
