@@ -79,8 +79,7 @@
 				&inc_dec_kp LEFT RIGHT
 				&inc_dec_kp DOWN UP
 				&inc_dec_kp PAGE_DOWN PAGE_UP
-				&inc_dec_kp C_VOL_DOWN C_VOL_UP
-			>;
+				&inc_dec_kp C_VOL_DOWN C_VOL_UP>;
 		};
 
 		navnum_layer {
@@ -108,8 +107,7 @@
 				&inc_dec_kp LEFT RIGHT
 				&inc_dec_kp DOWN UP
 				&inc_dec_kp PAGE_DOWN PAGE_UP
-				&inc_dec_kp C_VOL_DOWN C_VOL_UP
-			>;
+				&inc_dec_kp C_VOL_DOWN C_VOL_UP>;
 		};
 
 		symbol_layer {
@@ -137,8 +135,7 @@
 				&inc_dec_kp LEFT RIGHT
 				&inc_dec_kp DOWN UP
 				&inc_dec_kp PAGE_DOWN PAGE_UP
-				&inc_dec_kp C_VOL_DOWN C_VOL_UP
-			>;
+				&inc_dec_kp C_VOL_DOWN C_VOL_UP>;
 		};
 
 		function_layer {
@@ -166,8 +163,7 @@
 				&inc_dec_kp LEFT RIGHT
 				&inc_dec_kp DOWN UP
 				&inc_dec_kp PAGE_DOWN PAGE_UP
-				&inc_dec_kp C_VOL_DOWN C_VOL_UP
-			>;
+				&inc_dec_kp C_VOL_DOWN C_VOL_UP>;
 		};	
 
 	};
