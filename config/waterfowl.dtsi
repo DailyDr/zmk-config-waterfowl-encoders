@@ -49,7 +49,7 @@ RC(3,0) RC(3,1) RC(3,2) RC(3,3) RC(3,4)									RC(3,5) RC(3,6) RC(3,7) RC(3,8) 
 		a-gpios = <&pro_micro 9 (GPIO_ACTIVE_HIGH | GPIO_PULL_UP)>;
 		b-gpios = <&pro_micro 8 (GPIO_ACTIVE_HIGH | GPIO_PULL_UP)>;
 		resolution = <4>;
-		status = "enabled";
+		status = "disabled";
 	};
 
 	dial_left_encoder: encoder_left_dial {
@@ -58,7 +58,7 @@ RC(3,0) RC(3,1) RC(3,2) RC(3,3) RC(3,4)									RC(3,5) RC(3,6) RC(3,7) RC(3,8) 
 		a-gpios = <&pro_micro 14 (GPIO_ACTIVE_HIGH | GPIO_PULL_UP)>;
 		b-gpios = <&pro_micro 16 (GPIO_ACTIVE_HIGH | GPIO_PULL_UP)>;
 		resolution = <4>;
-		status = "enabled";
+		status = "disabled";
 	};
 
 	roller_right_encoder: encoder_right_roller {
@@ -67,7 +67,7 @@ RC(3,0) RC(3,1) RC(3,2) RC(3,3) RC(3,4)									RC(3,5) RC(3,6) RC(3,7) RC(3,8) 
 		a-gpios = <&pro_micro 8 (GPIO_ACTIVE_HIGH | GPIO_PULL_UP)>;
 		b-gpios = <&pro_micro 9 (GPIO_ACTIVE_HIGH | GPIO_PULL_UP)>;
 		resolution = <4>;
-		status = "enabled";
+		status = "disabled";
 	};
 
 	dial_right_encoder: encoder_right_dial {
@@ -76,7 +76,7 @@ RC(3,0) RC(3,1) RC(3,2) RC(3,3) RC(3,4)									RC(3,5) RC(3,6) RC(3,7) RC(3,8) 
 		a-gpios = <&pro_micro 16 (GPIO_ACTIVE_HIGH | GPIO_PULL_UP)>;
 		b-gpios = <&pro_micro 14 (GPIO_ACTIVE_HIGH | GPIO_PULL_UP)>;
 		resolution = <4>;
-		status = "enabled";
+		status = "disabled";
 	};
 
 	sensors {
